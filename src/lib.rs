@@ -1,3 +1,7 @@
+//! # Simple project minigrep
+//!
+//! `minigrep` is a simple project from the book `The Rust Programming Language`
+
 use std::error::Error;
 use std::{env, fs};
 
